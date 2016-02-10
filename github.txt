@@ -1,0 +1,111 @@
+github
+
+version control
+gratis vid open source
+
+viktigaste är versionshantering
+
+programmerat sig in i ett hörn
+
+-------------------------
+
+terminalen
+
+sitter i en mapp - skriver in ett kommando och trycker enter så händer det
+
+----------------------
+
+working directory - lokalt på datorn
+
+mapp med filerna 
+
+här sitter vi och arbetar med koden
+
+---------------------
+ 
+staging area 
+
+här lägger vi in ändringarna. 
+
+--------------------
+
+repository
+
+samling av alla mina förändringar. 
+
+här gör man en commit - en ny version som man vill skicka in till projektet
+måste ha ett namn som beskriver vad som hänt. här
+här sparas alla mina filversioner som jag ändrat.
+
+---------------------
+
+varje commit kommer att bli som ett band av det jag gjort. 
+går att gå bakåt också. 
+
+-----------------
+
+head 
+
+huvud där du är längst fram.
+den committen som jag står i just nu
+
+------------------
+
+skapa gren
+
+man kan skapa en gren för att utveckla en funktion. återansluts sedan till
+huvudprojektet när den är färdig. 
+
+------------------
+
+master är namnet på huvudgrenen
+
+remote där går det att ladda ner alla nya ändringar till sin gren
+origin är huvudgrenens remote innehåll.
+
+fetch - remote 
+push - remote
+
+-------------------
+
+fork
+en kopia av ditt repo som du kan skicka till någon annan.
+
+pull request - en förfrågan att skicka in kod till huvudspåret.
+ 
+------------------------------------
+
+git status
+
+git log		--oneline
+
+git add filnamn  	add. 
+
+git commit -m "rubrik"  skriv ett meddelande om vad som hänt
+
+git push
+
+----------------------------------
+
+git pull  - hämta från remoten alltså från webben. 
+
+git push  - skicka till webben
+
+-------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
